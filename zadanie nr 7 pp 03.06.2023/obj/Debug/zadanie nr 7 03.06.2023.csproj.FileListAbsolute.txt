@@ -1,0 +1,8 @@
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\zadanie nr 7 03.06.2023\bin\Debug\zadanie nr 7 03.06.2023.exe.config
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\zadanie nr 7 03.06.2023\bin\Debug\zadanie nr 7 03.06.2023.exe
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\zadanie nr 7 03.06.2023\bin\Debug\zadanie nr 7 03.06.2023.pdb
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\zadanie nr 7 03.06.2023\obj\Debug\zadanie nr 7 03.06.2023.csproj.AssemblyReference.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\zadanie nr 7 03.06.2023\obj\Debug\zadanie nr 7 03.06.2023.csproj.SuggestedBindingRedirects.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\zadanie nr 7 03.06.2023\obj\Debug\zadanie nr 7 03.06.2023.csproj.CoreCompileInputs.cache
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\zadanie nr 7 03.06.2023\obj\Debug\zadanie nr 7 03.06.2023.exe
+C:\Users\jradz\OneDrive\Pulpit\zadania podstawy programowania ćwiczenia\zadanie nr 7 03.06.2023\obj\Debug\zadanie nr 7 03.06.2023.pdb
